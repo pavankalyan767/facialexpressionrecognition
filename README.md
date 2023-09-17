@@ -11,7 +11,7 @@ The following Python packages are required for this project, along with their ve
 - Pandas 2.1.0
 - Seaborn 0.12.2
 - TensorFlow 2.13.0
-- Keras (specific Keras modules are used)
+- Keras 
 
 You can install these dependencies using `pip`. For example:
 Ensure that you have the model.h5 file (the trained model) and the webcam.py file in the same folder.
