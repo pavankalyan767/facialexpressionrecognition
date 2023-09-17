@@ -79,6 +79,10 @@ If you'd like to contribute to this project, please fork the repository, make im
 
 
 
+![accuracy](https://github.com/pavankalyan224847/facialexpressionrecognition/assets/124815665/d12c42f2-68dc-48c7-b997-6d04de297984)
+
+
+
 
 
 
