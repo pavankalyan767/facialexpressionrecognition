@@ -1,5 +1,5 @@
 # Facial Expression Recognition 
-https://youtu.be/wi9gptJcf8s
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VI...)](https://www.youtube.com/watch?v=wi9gptJcf8s)
 This project focuses on facial expression recognition using deep learning techniques. It includes a dataset preprocessing script and a CNN model for training.
 
 ## Dependencies
